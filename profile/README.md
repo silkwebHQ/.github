@@ -1,5 +1,3 @@
-![SilkwebHQ loog](https://raw.githubusercontent.com/twitter/.github/main/profile/silkwebhq.png)
-
 Silkweb HQ the future, it's where services and products are made available online. Powered by open source. THINK,PLAN & CREATE.
 
 ## Get Involved
