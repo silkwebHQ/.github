@@ -1,11 +1,27 @@
-Silkweb HQ the future, it's where services and products are made available online. Powered by open source. THINK,PLAN & CREATE.
+# The Future of Silkweb and the SilkCommunity
 
-## Get Involved
+Get your services and products online, where users' experience is personalized.
+
+## The Future
+
+> Open Source
+Getting to an open-source future, building on one's other achievements which is critical to the innovation of the future.
+> Project First
+Ready to start immediately, No upfront amount until once the project is complete or as per your satisfaction.
+> Issue and project tracking
+Fast turnaround time and daily progress updates. Contribute visually to your project and help in the development workflow.
+> Design and Testing
+Produce high-quality software without increasing the cost, unscheduled and unwanted runtime stoppages, ensuring continued execution.
+
+## SOS
+
+A collection of Open Source projects shared for developers to contribute to and buildThe Future with crazy applications
+
+> SilkJournal
+A community blog powered by SilkCommunity
+
+## SilkCommunity
 
 We are happy if you get involved and join our community. Please note that Silkwb HQ is open source projects are governed by our [code of conduct](https://github.com/silkwebhq/.github/blob/main/code-of-conduct.md).
 
-## Get in touch!
 
-Learn more about what we're doing in open source at [sos.silkwebhq.com](https://sos.silkwebhq.com).
-
-👋  [@silkwebhq](https://twitter.com/silkwebhq)
